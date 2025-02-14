@@ -11,10 +11,10 @@ google-tracking-id: "UA-XXXXXXXX-X"
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+author: "MaxBay"
+title: "醉梦创想"
+description: "专注，专心，专业."
+keywords: "醉梦, MaxBay"
 favicon: "/img/favicon.ico"
 ################
 # Header layout#
@@ -26,7 +26,7 @@ background-img: "intro-bg.jpg"
 # Dynamic Text on the Header #
 ##############################
 
-quote: "Where’s your will to be weird?"
+quote: "当初的愿望实现了么？"
 me-img: "/img/jetpacktocat.png"
 
 # To use github profile pic uncomment the following line and replace 'user_name'

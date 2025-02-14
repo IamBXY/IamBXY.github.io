@@ -113,10 +113,10 @@ social:
 
 # Sections shown in the index page
 pages_list:
-  About: "关于"
-  Blog: "最近更新"
-  Timeline: "时间轴"
-  Contact: "联系我"
+  About: "about"
+  Blog: "blog"
+  Timeline: "timeline"
+  Contact: "contact"
 # Exclusion list from the generated _site
 exclude:
   - LICENSE

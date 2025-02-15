@@ -20,19 +20,19 @@ favicon: "/img/favicon.ico"
 # Header layout#
 ################
 black-favicon: "/img/black-lab-glass.ico"
-background-img: "intro-bg.jpg"
+#background-img: "intro-bg.jpg"
 
 ##############################
 # Dynamic Text on the Header #
 ##############################
 
 # quote: "当初的愿望实现了么？"
-# me-img: "/img/jetpacktocat.png"
+ me-img: "/img/jetpacktocat.png"
 
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
 
-me-img: "https://github.com/IamBXY.png?size=500"
+#me-img: "https://github.com/IamBXY.png?size=500"
 
 # To use gravatar profile pic uncomment the following line and replace 'email_hash'
 # with your gravatar profile email hash.
